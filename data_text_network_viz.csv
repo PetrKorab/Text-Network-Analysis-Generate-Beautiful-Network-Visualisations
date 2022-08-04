@@ -1,0 +1,29 @@
+﻿co_occurence,node1,node2
+9,star wars,thor
+9,thor,star wars
+5,labyrinth,thor
+5,thor,labyrinth
+4,indiana jones,star wars
+4,star wars,indiana jones
+2,indiana jones,thor
+2,labyrinth,star wars
+2,star wars,labyrinth
+2,thor,indiana jones
+1,avengers,labyrinth
+1,captain america,thor
+1,flushed away,madagascar
+1,flushed away,shrek
+1,indiana jones,labyrinth
+1,labyrinth,avengers
+1,labyrinth,indiana jones
+1,madagascar,flushed away
+1,madagascar,shrek
+1,shrek,flushed away
+1,shrek,madagascar
+1,shrek,star wars
+1,shrek,thor
+1,star wars,shrek
+1,thor,captain america
+1,thor,shrek
+1,thor,willow
+1,willow,thor
