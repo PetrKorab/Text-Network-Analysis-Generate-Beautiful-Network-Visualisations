@@ -1,0 +1,4 @@
+matplotlib==3.10.0
+networkx==3.4.2
+nxviz==0.7.4
+pandas==2.2.1
